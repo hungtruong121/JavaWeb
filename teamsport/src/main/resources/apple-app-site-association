@@ -1,0 +1,10 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "3MNY3D2J9J.com.sport.dev",
+            "paths": ["/invite/*"]
+            }
+        ]
+    }
+}
